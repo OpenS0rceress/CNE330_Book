@@ -1,0 +1,16 @@
+type: marketplace
+title: CNE 330 Network Programming in Python I
+language: English
+summary: |-
+  This course introduces students to the Python programming language with an emphasis on network programmability utilizing Python.  Students should have knowledge of  basic network terminology, concepts and basic network configuration.
+  This course starts where the Think Like a Computer Scientist course ends, at Chapter 20.
+vendor:
+  name: Zachary Rubin
+programming_language: Python
+environment: unittest
+content:
+- 20 Unit Testing
+- 9 Strings
+- 10 Lists
+- 11 Files
+- 12 Dictionaries

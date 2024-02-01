@@ -1,0 +1,499 @@
+{
+  "course_version" : 1,
+  "environment" : "unittest",
+  "summary" : "This course introduces students to the Python programming language with an emphasis on network programmability utilizing Python.  Students should have knowledge of  basic network terminology, concepts and basic network configuration.\nThis course starts where the Think Like a Computer Scientist course ends, at Chapter 20.",
+  "title" : "CNE 330 Network Programming in Python I",
+  "programming_language" : "Python",
+  "language" : "en",
+  "course_type" : "Marketplace",
+  "vendor" : {
+    "name" : "Zachary Rubin"
+  },
+  "items" : [
+    {
+      "id" : 1897562827,
+      "title" : "20 Unit Testing",
+      "task_list" : [
+        {
+          "id" : 2110254446,
+          "name" : "LinuxWindowsMac_EXAM",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "DsoUMDCGckh2JBP/kHyChgHCwEQ+MzPRY1XH/G0BJW0rp0QAJO24/8s+uUWp7nnZqoLE2Vzc8gby9s4bMWMQWZ9XioF14cRc46ciNO9jbIA4+Bryh4E6rEv6UvDYIXPjeD3r3k/jrmGI2w9uDzs0SFgVhfxflQ7IFD11g/jdx2UP9ENjXVbA2YW0fKgLARYftWu8WT4bM7SiaaYcOjOMwJeweKj3WpqNLof8XyRd3U3vB+k+e1X1YaqPc5265Ibb8ebLBO5AXQdi0TX15hqNOTmRBzEcUWJzP5NtxIlhCj38xHHCjauyTUAcPv6w1/1zMrkbw+RqBiTpAZZAyXDSZBIp3blxjFebu0/G/p60tLlIm04pe1XnAX3j7tDX6sICY0f759OGyB73uvrlG+7UHTFHmO+ixt7cuJCz59hcb0h+LjKMeB0xNWlA7B9PN9dOZhVFCp4f93JUi+QEBdxptyfuBzAM8+upl3+DbxQrsSZV7T//tnPWB3XeVO1P/JbCOEd4J4idAWOAa59oC20JX2Emlfe+vwoqpYud4t+dbOS8IS4fbh+nskS1/uimApqyvn9lSBCL+cFTJc4lu23pgg=="
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4ft/cxRsc25mN0iqOWtVAkTzyx5fbifckU/9tk6LjAv4Gkfg669xFFIs2xWZSQ6xJrE+/rukoKVTRcTqtcp6/25ye+IWc/iB1yutScC9IGCQYJpBCL/E/rbG9xwIvvRmIPV7u7fR/jJx91JAK1QEyatRmUlm/qIRp1/ZN2aLbfFKG8TFeMUbzM039R1megPsyzYw2Tu1wJTwYcU7pvn5IJR83EtxlRT/c7tOxb4YKH1HLU1o2zdkhElqmcR6Gc/X6+sAFoKVs6bWJ06KHTwerEvdYg2lO/oNPyJiKw0AzZRTK7cFqxLqhfqUp4XyeuQJyihzIqwNHjh73y+cnBpFVHcBnQJwg/dJ0rwNDXMa4YT4Mnp9uXzyB5WxUOtW37HuisnqWY4oVxstl24cXcQgHjONTOaJ1wLJrcJR/mVYC078jGWUKHZXIY5NmJxzfptVOfId5qeXwCKjkz4W5jFIquVc5mqGfwuy+BiTaZUdyJnmTstwJV5ywKzY9X38ER/dfFVAxV+VzRQ1aXanQtxb59SwMkUO6NWak7goVyvuecsSl2/4T64K+EnsIK4wd6fhzbyzbALvAQvRzUeOoIJMAQDtMR11alGbOsd5V2Y+Ir3IFSLFS9aVxpBOG2HDNzwqAWges74I2jt75aldih2uc7UaQLAQBBok2/insTi89nauXA/InfQ6LvznVSD7GBO0Le1IH3uKkU9bDFVoIiKLmxpaXUo/hfLCFmp/HT0nvag+4o3bswm1aTs8/P0VW74J5NNmNT385zeQ2XJ8eQNqjq0N5qtSriYqSasqpjkLVwHyYl2JOcppujgnzYdHyORKXL0tNB5Iwg5HjfUuODbdJ+9GdQoeR/ZZC41kzGpA9SRhQx56IhCj+GDLpVBzS6077Dsln0PhzD9SHaUF0mPs3zq4DrU2HXwtcmgmgX0mnbnrbyn3lzdEkXfl0gCspPZH5Nui+U5CdzsAX69bN2+YINn5a4iNpOZCTWKGHK4v3pKb1K1XdmCHyTQ8gTbe6dYrwbyPfegO3SOQKUvZsPkvRuO0X+iTj0H/Y6Jc/hMkHqNL8JFJm7PN106N28Hmcn8OckNyfjB/lgrRLPpCMnjeajZHJlGB06NmnbUM9urqOBdJFfYFHPZ1bP9Vx+GIFwohWjH7wztjJZXYnV4lAtDlhlojFGTNF9mGiqo+vk7QRVY1J2kKPxFNBtrzZ3iTTI99+/OPlghDdMGeO+LmC/kvaX0kWuGg+qwsHOqGx9EZ6kwTTqxo9qTvf6FgDGHS0LE+e2XvxSlDnvXcb/sgdHPrWLqds/IXOCy9OnAJ3PSYb5/obpkG4zRypHE2LH6IXbsQhg32ck/ubEXCIq2iHEmN3qNCARQ2DtVq00OvBKJIcGoIRHDMjDY3xNbr8L+1lyF+f//zMdyElWH+SxlPG34R4Wk9Hp1ZMrGpJ4Ra8Q+9dFLd03/2pUePXPHg7LGfM3co/weeFQr4V/zmVU3SCShVJKM"
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<strong><p>The DHCP service on your network assigns IPs in the following way:</p>\n<li>A server is Linux if the last octet is divisible by 3</li>\n<li>A server is Mac if the last octet is divisible by 5</li>\n<li>A server is Windows if the last octet is divisible by 3 and 5</li>\n<p>Write a function, <code>linux_mac_windows</code>, that takes an IP range and how many addresses\n    are available for that OS.</strong></p>\n\n<p>Testing plays an important role in the development of software.\n    To this point, most of the testing you have done has probably involved\n    running your program and fixing errors as you notice them.</p>\n<p>Python provides a statement called the <code>assert</code> statement\n    that can be used to check function preconditions. An <code>assert</code> statement\n    checks the value of a boolean expression. If the expression is <code>true</code>,\n    the assert statement allows the program to proceed normally. But if the expression is\n     <code>false</code>, the assert statement signals an error and stops the program.</p>\n<p>A programmer using Test-First Development writes a new function using the following steps:</p>\n<ol class=\"arabic simple\">\n<li><p>First, create the function interface and docstring.</p></li>\n<li><p>Next, create a unit test for the function.</p></li>\n<li><p>Run the unit test. It should fail.</p></li>\n<li><p>Write the body of the function.</p></li>\n<li><p>Run the unit test. If it fails, debug the function, and run the test again. Repeat until the test passes.</p></li>\n</ol>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    },
+    {
+      "id" : 323683067,
+      "title" : "9 Strings",
+      "task_list" : [
+        {
+          "id" : 2100363567,
+          "name" : "Comparison",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "/lr8x71vdkRICOjK4m6xkp4CbWEt+fxhP7CkRWV9j3Vz3OTvW9/vUq4/0+eXWybEUGiRMt6iZEPsRGX+LVW3YeDnlXDC6PzZr85HVSoyylQIz+kxDUNjbNAYRYHSXETPuf1ZvFmfCq/B2iFsLObY7UVQqf/mVdDFIRJ311kwHMjmwAxPXh5Phu/MkpYxgsnDwoDUXKN9vULDtJ4tDcOOpQ375hyvOVCd+7B2KyzOuaxLKOLhBxhlQQ5qnRIAzMORg86/MdFIx9/GpKOocZpe1HRK24Wsqdxem98/GCsUIkY4lH2L7by7m74GedMnlnSM"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4f9JHHQ1NmNb0ABF+9Un6OKzDZME2EUl4nYDyUYa171uf0PFLnbP6AalnYSuD71MqL6b4g5XGpvLqcIVjpXOMawQ1oMQUOjIaeYhjjQrj8MXdSHaz0De97IXzSGhRBdhelzTlw+RFP1Z6+cVoAjAmPOq3HDTk9y19QAajzSAk14/z4f42piaj9KyJzVdlEUN65pjZIW/wDBSrq+ohDlf+aDoB2qqDtt4uQ+3szN0lOwIFXZBYMrQ5xUGuyfMiLnkKNSrdIzM51Ka9iQfnuAOrnxKME0ZmP7bdTPVMg+HK9s1WkGuk2wDq5EAm8hoP3XmYh5xFxkcVvLjFBEA7UfZYrl75do7XKQrfQZ3BgzKHRA5T+PWPzgbgw3JuiwmEq+lHczEgokqAiuYMbCf2vwVUkdPaBuUfFqwjTP99Lp8aR014T8r8a8lS5nQ9AKB6hVasrkqDJYeZG7O3mKy//dXFCuqSjkZSB3DSl+BPFxbRjg6a9/n+cCnThBBLwvAlp+CcN/7Q+slxkf83StIBG8jReoGBUglaAOOpIN6ySBb4t+t9rBIvSs7tv1U8piZPtZo6hb6YxLS4Hmvn7pAAzoBLB8jqqjMn9i0lOTpZzGVO18ahX8JEbJ1JEHnHPeAK92Wf8KkNF6s8OjXsteXG8Bg2WsjTOrVNYEkV03V8dCE/sMSVUDDnfHNzMXhimG4wFMxwFFBXdxS5PqNQA2iQPPuOA8w6mdg58+pQ5Fket7yGGPsLgXRm9uxgLzmnfsztzfwrhOUmETnlfeDld+MkrkwKK8x//0kUMZkCkl33HwXRhIqPU4QrmEvcLRxmUxuxyLz8oZof8LxEHZ3RB5dl6VTFLrJEsv8Mmsyfj9+FPmoDZ67WYEybhqKj/DdYOp82Jy5n1sNvhpg7uXDy8Zx8IOEaP9t1TvHQrLZomdc1Eyp7UzuZH279BVdK6tcLRyrQmdrKaO3hpdpzQnt0ZyGWqoJ+xVLU9U9SEujkETF2z+zn7AGKKEM/8MP8xNCSxgUmk5K2w31EaiESVSvMaizBdOAV6mP8gOW2F0nqwcG62JdvIr7EdvWvAFD7eUfpR7MH22ZhVQ+TNFF3a1La4oiHKI42DGtU/kYrjgsaM5lJSRsa5XVloKcakJo4tXkGhVxvm8tta1spzOpBBC49r5ZfPRzWDYY6Bfc4DmLvqw+B1wI1+82IxLzPgvKClD3WFkwErSDKs="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p><strong>Write two functions, <code>check_in</code>\n    and <code>check_not_in</code>.</strong></p>\n<p><strong><code>check_in</code> takes an IP address and an octet in, and\n    returns <code>True</code> if the octet is in the IP address</strong></p>\n<p><strong>As an example, if you passed in the IP <code>192.168.76.1</code> and the\n    octet <code>76</code> the function would return <code>True</code></strong></p>\n<p><strong><code>check_not_in</code> does the opposite.\n    It takes an IP address and an octet in, and returns <code>False</code>\n    if the octet is in the IP address</strong></p>\n<p><strong>As an example, if you passed in the IP <code>192.168.76.1</code> and the\n    octet <code>76</code> the function would return <code>False</code></strong></p>\n\n<div class=\"hint\">The output of the functions should only have numbers, no periods.</div></li>\n\n<p><code>in</code> and <code>not in</code> are boolean operators that test membership\n    in a sequence. We used them previously with strings and they also work here.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 29470930,
+          "name" : "Concantenation",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "yULYzf3MiEDTk+2SJDKgJBaw7L9gjEIM3uQnusyYMc8XGup8iRg9Vt2ZRQjrfXMPMJ4afW8/GhBoo+bBtC7zwlNDL4/zEmw3KqISmaiReK6CwnIekfdPfT/Gqpol181xAXmO5vcX6orKsjzTJZdQeZN/oRYU8oH7Bp6HNptSv0hFFPuJJP+Hg2sYSI9K4eQuwnRfNtahYpbTFJX0xIUtkg=="
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4ff/d6MWxdmbwZKLNOtwxb1tFN3MCjsvuWYYdxVSVLdUjdBaaO444KzwlL5pktz37CJ0cNjKA3CaLsYY/LiNd8K93SNefr/8aTOWmzKidBUihGSysLeC1u6n0gqWqfYmbJFcW/M9vAvowSScDabv+H5xtzoUuV4I970cEgFMmnkD4pGUxIQz1PZLg/qw4rs3sRz1sLGGtB5FToaKVNxJYaE"
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p><strong>Write a function, <code>create_ip_address</code>,\n    that takes in four IP octets as integers and returns the full IP address.\n    If they are the same length, return either IP address.</strong></p>\n<p><strong>As an example, if you passed in the numbers <code>192</code>, <code>168</code>,\n    <code>76</code>, and <code>1</code> the function would return\n    <code>192.168.76.1</code>.</strong></p>\n\n<div class=\"hint\">Make sure to convert the variables to strings</div></li>\n\n<p>Interestingly, the <code>+</code> operator does work with strings, but for strings, the + operator represents <strong>concatenation</strong>, not addition. Concatenation means joining the two operands by linking them end-to-end.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 1135579417,
+          "name" : "Length",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "Dm53H3ywS/cYmBdgs5XYaNoCDtaskRZ7PLoJqqSpjZA/d6o3lPUXODdgsaYRv/Ap2B81+8Nn0PhqCCe3xpGZM2CqgIjVyXeaaOIXgvQi1oNqONGBGJTm89tbsGCET7spO7dedmOblwb+BKPRqTU1r0+RwcHWRI/8j3T+cLFZ3Oo="
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4dgfBAz7/ONG69zXw7NzYG4gYu32oEYochQ6DJkUKGzsE0QlFKvw5jMqjcUqxXzcXgzZ/ZW1Ow/QCGW2Jg5u6JJTJMhpobxbzEh7R4RmP2euU5cA5TD8kdi6njURPopQBj8ZC/025yeRxgcIHC8WF8/3QNnLzzb8gIsVqlfkfnbkBC1VFVAW+pOXv+8MgRVhW7+xy884Vi3+aDNL8N19WKTFJvdehQ9UwOO6csk8CFZ1dZAupR5jdXvHMuIEW1HTnmJ4DaQlBL6Yrhu9zpbT/jOeamqdEeQLbmR87uni198UhbbVIoCNH9QX5TUwUyQTvuwvpiTQZG4ExOSGNqVCMzMgGngTUc5pguEj9qrVUr45oO4LblE98r9dntOGdd+WthThEZwmPDHD2XXxFGG0kk/lwcRBq7hWQSgrBTtibwz4XRoEa4WijTcGhqD4kxClGvhEtnTOTTF/1insGbaijv/QUxvc8fw7rPbFcc/neaScde0DAzenCY8Z305MmPOcj3KoOBa51cObF4TUjlKapxIQjoZhK/e2gbrqAE85/6qbuhFPTbXHs78mxCZE0MZ1nA2IjispbxMbsqvyZXYG4Hqq/5bhV7khwyasXCCYiFtyvdQTfFR4KF2IQiVxyS1B/HODsNzbu3nkNpr59U0ZMM79LVgvu3OQbkL+exKwaPXLyzHF7IwFDGIf9NqzVJ8/3yn1MgAdchqAk326wBVWPy1NbvtZcboZTHw9ERkS42iQissNh6Ou4nFdF3ccLdR+fAFES5IrMjgloizIFmhVd5x1G/HWAUMn9XLPg68vU35oo2ihJSIF0K1HKK24Bkh6tTOvDeHOwz6pik2O/NZMY4QtWi0iMk6cpShS+HOmbg1vssZuJSRruHNLioCB4wqVZHuGH1XA7mCfef/T0ixfO/w"
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p><strong>Write a function, <code>compare_ip_length</code>,\n    that takes two IP addresses as strings, and returns the longer IP address.\n    If they are the same length, return either IP address.</strong></p>\n<p><strong>As an example, if you passed in the IPs <code>192.168.1.1</code> and\n    <code>192.168.1.101</code>, the function would return <code>192.168.1.101</code>.</strong></p>\n\n<p>The <code>len</code> function, when applied to a string, returns the number of characters in a string.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 1720078205,
+          "name" : "Slicing",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "104roR7Y09i/kdPMyn5qtgWJKPQQues70ShFb0kpubWaURc5wmdZH27FUHh/NC3T+Bs0tEZNkSesw5KHJ8qbnbO8upi4jqCiR2xYdU/jJwt95FD71ZK3/atQbwTOD8FvaaQbCVBdhoMA0gqCgG/rmYhVXw48/wDgq8E8dJKTpWOQQi+DsuHtuR4Bmme0sJUe1LzTKpWsfBVyQ5GXdsgR/6A2zfEevDWBF3jpdyhxSrJXVAk7x3v+QfF/9qdFE0/y0nhO8pDivqco8z+p6tr0nVpQf1EUtMjk2YwXJ0V0jlVPD37FpX6LcML51m36GEo9"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4e+IjoUl2HQvWaQQ2X7BqzkzYDVILf+Zm06KWlckk45YZ4TIyyrbMIfRx2bI8VhVZ6+XSYF0y6th9Xa2XbZPfrSntNhg7EbikLwclFsh17JXc7jUM628yG6AiOaR/52SgeioKs8D6ZwWmA8kAGuzyLDuJY0l2P+ZZr9laYu76K3tWfWGVzhpQhYa2qkNbJo8MCLTAljpda+9BYXzB5gjoxYPeGAFvdW1K3iU93b4ofDswUX3HNCIBjHdMFHExnI71yzhgIiWHXcmmE0R2W+cSYB/VxG+2zcebHWBBI1nADQwBR38geXw46nGBbN3qYSqNHXG+sjHuCCtzckIrEqLR27QNxQ0STIHR2Ed8n287gHOLXy6YD9ttD+EA2KpVtZLShZ8xjIxqoWJnJy5CvWz8OjDt4b7ui1DsRsAiCo1EUjT875ONiSpVwe7pIbDeGAihLbggZeRWU0/7Hu2u2cgFGxgrBx4ltWWg6kchmtcGrATJmuxgIlwfBZBbIGYOjIBksQAepRom0Oo2FUqJHrYOv4sn8Y9j64i6Ow1Eo/p1aKi4jY/OxMbwXM5aAPr2YXBlgTGTGmrQChdQnRRFplb7q/LqCCeyH4gI1JGYgYqJVjAstBISg9MQCnpRxFrvI98WBSnDQb6FVlVYlU/5db/PAwztyC/6lDk40vVk+9fGhQx0l4u5vJ++w3r1PkrX4zFu1hwmFa1qeova4UwL4b1P1nt5nsMTNt6WuVU7b5zxfDBrvQmvWbV4lk4g6esT6XhQLA51LF8fGWersVi6SYSCnfHirdA9W7c6A3KBG92L2q2kuuGvCZ49ClG4ggtrWzAin1KdkZWLJ8+X1ISIOl98U/Wn29cWTqwVCNhrrGSSS7uP+QiSP75uAiimqxNK1BbgVWHdIabhmV8WtL9qUYTgOTSpAg0c9be2efh5VmrYTReVjpQFl7SsN6fSuGkZQfyPqeqlvAmJvU+ysUwZX16eXdbNeQyUEmk9vFWSy/0VQeT47Mx8ZeRe/wB0DG7QDaMoj/2dNkJ0/SVrlMvGUGYCgPaksO6VUCYS/pZ3xr/y8JS41WiJdN7yq3KQEL5F0Ytu89ZqT4B/keCS/RD/w9zsyNvbNeVgJhq8Y3RmRHPSlfpAR7G0Yd3olbseZI1icszqAzaL9m+sXOaMFXU5jijyx2micVX3c9XDoTW49xUj8jIdQaLj0RHP74KXUQ/9qlU/keIxOYbi8ELxWa1JYkcR/nQgZQFwcpNlDHS2pD90A2oieqRRukG4KHpKKAKnWP/+Hwa6fLN7hRxPMFFrl3r/HXjKQerV8ZSrSHSVA1hJQYD3NSzkar7m/88/SZh+FZzmSd8Yg85JjCyYNKGzWuXoP9RbYF8NTua36XXtI7vqvAoTjYIObT4hLHRo6XDdpOQLvksvohHomhlmCUM+aEYYeM2Z9LVX513wry+VoZlJU1vco6bVDZROcQzJwipUzs21okQZOYB8PaHx8UPVQjpfuhMrip6rDTnowP6N2DDKXgu8klDytnbFITWQ8NWUAsaDg="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p><strong>Write two functions, <code>get_first_octet</code>\n    and <code>get_third_octet</code>.</strong></p>\n<p><strong><code>get_first_octet</code> takes an IP address in, and\n    returns the number first octet of the IP address</strong></p>\n<p><strong>As an example, if you passed in the IP <code>192.168.76.1</code>\n    the function would return <code>192</code></strong></p>\n<p><strong><code>get_third_octet</code> takes an IP address in, and\n    returns the number third octet of the IP address</strong></p>\n<p><strong>As an example, if you passed in the IP <code>192.168.76.1</code>\n    the function would return <code>76</code></strong></p>\n\n<div class=\"hint\">The output of the functions should only have numbers, no periods.</div></li>\n\n<p>The slice operator <code>[n:m]</code> returns the part of the string from the n’th\n    character to the m’th character, including the first but excluding the last.\n    In other words, start with the character at index n and go up to but do not\n    include the character at index m. This behavior may seem counter-intuitive\n    but if you recall the <code>range</code> function, it did not include its end point either.</p>\n<p>If you omit the first index (before the colon), the slice starts at the beginning of the string.\n    If you omit the second index, the slice goes to the end of the string.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    },
+    {
+      "id" : 595691357,
+      "title" : "10 Lists",
+      "task_list" : [
+        {
+          "id" : 528512864,
+          "name" : "Accessing",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "Kgu2mZAVJ3HvTsKEab5YBkdM0rUL0ERpQK4QPdPQS/EEaaxh0sdAB279vMS/uWLB07yxe0hfaZA/D5pRcxlRIZCbao1WYGu1DoDiBKhy7K+frKh4spolhg7ExpqSrZKhaYW2m5GeG8Mkg1a9uYB6MsQtLiqqLPAeSBc64q6cmlrJ3qAxEl3RPoV3Qkm7O+47N4ZedeOZrKCN4wdLRUEDvgF2GqoIPtiOLDHUjPfZnSuFdw7aN3m/+IzBjGb2NFjAFR1i6aqJiHOzOXzbAmwBdWvlNvhoSVScqd8ZU2Plk9QzXdOedZILO+8xIeMemcWWZZJ5PyiiqVW8UrC56I/0MTMzBkp1YPLtcclD4bCWYrsBvSJEIGAqaAk4AOxziPxEJzJRnvs6XGcq30yYR8hnZ2t8sbyrun58KPZAB9JhqSVVe0vIya3FG0Sc/IBgIP8B8SLm+gLbY3B91+uPl9c69MyFc7qhBmT2xrwzUC0sspC5YD+Bmj96LD6eIk/aVbcN0iox0w292oMfTKIiU8Taxoej9HWD3dxrjsDs0slNa5GW6G/VZ8eYe/MKg7w7eJtSx/pCdrDB62WF95oWAPHQt6lZF5wH+2JBiLO4r9nabNhaPbizMdSU7+zT1o6r5HhKU8gylYVyBjAqzRWx+NeOCn5Z1avTO/2v+IJESzraj2o9Kv/b9UKiKl1sEvJEHgnwTzY7epbgwd+Pe//T2SA81axDittkwICQbE/dacTsqfI="
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "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"
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p>With the provided list. Write 3 functions, <code>access_first_element</code>, <code>access_second_element</code>,\n    <code> access_last_element.</code></p>\n<p>For <code>access_first_element</code> return the first IP address from the list.</p>\n<p>For <code>access_second_element</code> return the second IP address from the list.</p>\n<p>For <code>access_last_element</code> return the last IP address from the list.</p>\n<p>Hint: remember that in Python the count of elements start at 0.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 546835152,
+          "name" : "Cloning",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "/hMrKDgsogX0cO6PKtgWEXvDF3X+Bh2wM/qOyZPbo44Sws5e9CpfvhUT1CO0k2OE2rrUaT38PFmOADtJoYf5vcvRqy4YJcBkadKDIhqWFw/DKOsXCnwEjwUvL4sue59c"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4fFOE/UYAGppWEr4/FGZYpzbkwl241E8IymUu3hw2GnjUTg5sw0+7VQmfcuwd11wzyP9u/jpBrVUnpjMNDhsrF4AswA1E6qeUImMjp5kYtwc/Ku2yvKGxOY4hIxzYhhb7jBRnpllMHPCtfn54qTvGaiIlKLMUOAl7G3avzVyazyCqPGG8UbBveWf5XcEfTsVtep2e+2pDfJsehw12y065ralB5Ey27DF8OPQJD5h8mHsAw5xGN+zp9cq10fPbC4WfjECGKo78E5+Lr09SbC5ttQaStep3ZSLDEjgMuGH2RFXJY6qLWfPyLfEwS5eweJRKcrOJyCmB15bvporHb/Su8ZqRuFTBhVJjd8p56x6JrcwfiHPtfOS2MUckGLX5zjQqdKMjQIRfsr6Zbcp/9EQNJ8bmpV4ulSDXEkAH6Q4T5Gd6vCsJ5rG7qc3hTlBskqT7zCvTGmp23Nk8Sy2for7g/cEANrAE4ljVK1kOtZK5LEihHoP/twZ5pKZNst71itNiO7/GXeQq2uc9jKd3hPsWOyXmPXZBr3qzq4JOsPRmIH+Lyf2h91Jrbi5KIAhSVFCUc6fGPgTAUysQ1eMsl8urJ3EWx5btXckCt+BT6R/ylVl2TnloT+e96NfSTDbYAxtIgRMK11v2nWZpSrpw6P3ESPe5pSRqJ2iZJkSDNzA5erCvpYrsLQn4XqTJ9VrwhLIlJ/hU1VUPaVaxFc0gtzmKSDSiG6JOlygk40YMvn+ojRTxc9lKEEi0JBqpx5+vBcOn/V3FkkPQDNY0b9RkVs4dXtZ+TB4pLi047hb052tZmcEc6B5eVbR5n2aMPxNPc8k5xrBI9LyGHuS1IqcHJ3PPpX3HI3lTnw4LTCP3Vvt8QddQ=="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p>Write a function, <strong><code>create_clone</code></strong>,\n    that returns a clone of the list provided</p>\n\n<p>If we want to modify a list and also keep a copy of the original,\n    we need to be able to make a copy of the list itself, not just the reference.\n    This process is sometimes called cloning, to avoid the ambiguity of the word copy. </p>\n<p>The easiest way to clone a list is to use the slice operator.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 1949389849,
+          "name" : "Slicing",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "OKPJlx/Sm5DUFXtYRBmCxZxX1etsrSE9leBh2yRjKw6MgsSdQoeaoAHaTvn+czvCH0gFK+ywbz+UzZ+6w+a+HEeKYzK16IGlofXk0pCJ4J3RTT6iAlNuULpCcjJTjAEPRmNrlGx0NvSi79eEN1/jNMkkKUAP15iI7wrFp+S/too="
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdWI+dgO8OHzkoaQu5CKqQpcyT0ap4TvRlEo7sw16rNbf94wp/ZyjwIfzVyrNkeHXTmglNIyMzZGrBQ/+EkSw6/IHGlUAEouXCjf2JROH5bJdEZqs0QHc+8lLMGAmYNjadvG/Kb94yrLbk+aGuUAv8hcTH/VGf7Z5oc5GTjI18K+p5XLfUR5hAtob3ewssohHQD8vlrliCY7YopPz7MsSviJrjtyBQGS9ubz7gfvQroBLq4hAFJdYmb6nTDEtO6j36us1Cjam2i6z8bDuz6DscXrQVsDFanx5O0JN6xcaAGGAAXHxmPLOV5nZvj0DyxuYfwHzEIDPXIK7j3Qi0yUBWSU1CIaB4xh5rJqZw+P+uvE9HjK0e9/V1u0yQVDXXgkivn73GqtQ7oLqJdtsEynmO26+7yqbWFmQFFzR7M/yK1Q9CztKoypZaJvR+meSm3969uuwXJB/ILNtC4LuAvZSRmLueOp7bIYvz0H5kouzYdeCKuAU6vmHBRF/7n/UTeHQNo/VYCPT5jJtnryU6NyqgOJDB9h3Ri7NXcqjsjTKpPDoUrKN8OjxdGFgXOmA8Xk7+UDwJNyWbcWQ3mjZXsnqk3vmV0T7fDt0jNH4rWvL2MwEd1G7KCz1so+K6yGOhxTix1pV4H3GZ5/mHyzB6xFgEzoXrkZUL0q44FfXl2xbFcBa9aFTHIC1Cez/0WLEaa8zeIK+XEKz58QWMcL2YwcaCrtwgr4l70H5XQgulT1ZViFSdZcUKcnNK2bi1EClnDmhGCbTk/YJ3Uj4S1kYuTyrfVGfWiS9K0gwuqCHxO0Xjsp4RL4rFN7e0OPGTkoQFTSp+PbEmvUpJSiU2E1Q9qyYYoVYMHgwTpRW2E6BsrsmJO6jXixSwj1u5qXiDOHxzgIMgUqs+Un1ZDux7bJHiDJa3CyaO2r0tSymg49XbEVuPj/y/EtGh1KFBqRjDiQQE/cCgdifx1C0yc3OH6h/UN8V5SNTwrHB0E4XpfVjZ+A3uSNkNSp191nbj6pfFaIZK0/PRlg7a4NnJoFSpVpwIMhlid4Q0xJozJ5rf7us37u+iGtQ8Fol7bKJ/GDEv0g7O4aAgJIMS6meaTqmCeI0ggFoyj2qRmIHW79xI+DgBAKe7K1peGO6M+rppVimuHQeotrIAjxsSd9J1cjeK96CCMvk6QbJL2zTmSI5Vl2PLmF+Ouz3o8weIUUA2tcdXG8GErnDDtc9E8MLsD1lZHCJIPtBjk5FnXGhIaQMm98i6PuvMaDWfjV/JXMBfVwAxKlkpgDGyKLx/z9oPUDxamDYjhKkMxw6fiLsGiMghhA7GfIfoGbw7D4JeKi96otBTpqTrtGjBxWPAvgkYtKNsimY4TYaakjPTW47BzF5E7UYV0a1fCcif/GAV2TOAXxDEE7dJpV8AM0u5Q7L0xVmwe9y7boS5r8ZrWjP3ixt00PBQ66L47igHf6718TvVgV+VKuQQYUCSctBKARdreMq9unVnhASSxaTfYxiwpW+X2JiR6DGC7ObxmZyRMBiKhi190KJVgCwuI0jgoLfwdjA2ONyVwCHyhJiNUtrvwXLmkxO2kUrNc0su3l5OT8iM6uB+BrB7k1HtrWK6LhiMy3cFtIKDIzNa4OBPHgrsIYnk7kWIpSiFAF9hJx9ZssH+RFMc1yvGQLGUA=="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p>Write a function, <strong><code>slice_ips</code></strong>,\n    that takes a list of IP addresses in, and returns the second and third entries in the list.\n    If there are less than 3 entries, return an empty list i.e. []</strong></p>\n\n<div class=\"hint\">List elements start at 0. This means if you try to access the third entry with 3,\n    you will receive the 4th entry. </div></li>\n\n<p>The slice operation we saw with strings also work on lists. Remember that the first index is the starting point\n    for the slice and the second number is one index past the end of the slice (up to but not including that element).\n    Recall also that if you omit the first index (before the colon), the slice starts at the beginning of the sequence.\n    If you omit the second index, the slice goes to the end of the sequence.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 1067900094,
+          "name" : "Traversal",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "B5T7jCQ3YCaRDNa96qJXwJVJiNHNCAz7nGQ5CVt74rOuDDyeM/eT/A8i4HEeDA1d6j+7wGUcsTHE+WGB0d92KIooDwbOTuZKzTHmzFct9Hy2noyjlMHEKNrUFuNvQG/gfpfEOvvkzAVKXF5xjmCNRAllRHy+sGzp/Rwt8/Uhcjc="
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdWI+dgO8OHzkoaQu5CKqQpcyT0ap4TvRlEo7sw16rNbfi06qj2smj9U80bvrCXmIHbwQ3A/HlvxnzuduVByQaJku0fnpbbgFUOnlwO0BdRVOU3VZ9X3PL3IOWGBN0xEaBni2i1h9fhScTPI/fMT5Em1loyuui09wc4ZvREjyEOXsXIPyeLyZIVuIJ9ey9w7TCIosv/zHc4o0lizaiNJaiwhFXuV31Fr4YOYFrxRyBH4JggsxBSsQeK5gJ+PqnZvzGk9JW64XKT0gxr794oXMq9Y7v5PGYNQ6sKYUzT0HHK+SgzTzN8wnPUQxIi+KDb5uEi8Ed0GsuRESWsVVkZ3+Vi9i/lrrrw6Vhh5XsS3WEqgBJ7FjuN9YCnY2geXww5+Ft2F0CNP9rxJIRwD4Y1A0QYeOdE6I/cumPeIl9tB4I3WXEPF5UINPc3iHsB0E+V+f80tTQrlgtLLyrUkrjx+7zUtrcCoiUEgzZ9Gdbfk0Gopc78M1kSLc6rEfZXllMEIsFpfnc65nWLcCSnvysIYibf7ooBaBnZwh1ZXvnr00dm0g6J7Syo9wULepInUuIYAV0Wn06ZK1mJPh/Gxge2DaGDOg3TB7miYzXiKFKcMw8V1tHyinVhR0Ah8n9qoR9epnjDBTBjsy14jJZls26igyiHSFOr2kOB78Ub3q7kvvkArk9pGT4ILnv6Ib+r1qk7D/LKlZlpR/ILzoDzXv+N6JtDjLJmZqGPAd8/PdQfLIX0nMvoTJ8nE0u6VbJoMsDD3WzzM2M6C6r6q75XCZYGeMtOyIdDrEHZRvz0WccZtpeapWVFCH/wex3TI+QLWrcp9pOhFpT+nf8U6szH29KbmTn/u0PLqXB83TwdJfHDiWfueKoajNDEQW2DJRKwyrS30jzLSGqCNIBcuEG/nt+gJ3hlO7GTS964R1+WQKY1jWtJIgQt4ZMUKQV3zR0VDghsiaNYoepXIRjCOyjAjS43ReXASme8vTEoy/GBRxAXX5noP5RNixt/5AkXrsdGio3x96oRKnQKXDyLdmsJ79BpEyp5lgxKkm3mk+aJqL4mZEFNJapAsFTV1deXx6uU8TnwFWyV2OA0vg0ZRkU8PnuQ1Q49LtkDzJ8nnK4LE//iWIU7v2AGiSCJWtrS7p95z4ETkz24y4HcmrZDWy/4sq9z3HIg8jdML7fmh3UGRoBsNe4updfOeY3hQAg9zI59ZYwsDgvODESWw8K+GZOdRceNIjOrqSg3IvKWowOGGJMZeLBYyeZqO57ubS9gTbHVLkWVtYeFYpTS3CrYFdwoJ1YMbsXWfxkauN9vsvGog3xLX13MkNAKJyFv0iXNvEw0rB3x+cKqGjyY/GKA+6xZ2X5fm6lFTMSCK8vvtn7UuAy58wGMlASJChGaYI4dfcP/HXVWP9eVWW4fcCfiREkdTLa5ijshh30h53LAvQYMS16Ij0n6bBfDkqzSfNr8tf1JA3CeBxhr/R6xTHoGyba16nQkHCHLtvqyctcbuSWzgvLgrHYNmoI+jblHpTM23QpTpXGhWhJ62dBMQ2jlOMxF0lnXfBayTPAJZ1gxabQbaHQk6TtOnqO2TyQkKUfvuOPfvmC1ipqmri4w58QyPIMRw+x5yzEREMCD9W/Unf85PLbFvH+5OXcFRZ6uDzAnYBq+2xHsmrdUw+yV9isCMIRynEv5le9zXYdeakJyY1cDvYFOY9Rp4mtx2bzKzCTShIo52WaTBId5yd4EiNjLmyHgzXXxCKJnQzwEHXlaymR+A64My00Kh0qQwrRGInuOYA26Jm5udGpn5KZZJLHf1H1K2qMcIjqTPqykcPPBUIYD39oXP0TzTTxP2JbsV5EHJiHn+cG7UotRh2MYMEFXSlfxUZzLdtr8UvMbiV8UwoQmLvOzikcE33f5x9CWzgHGUlogLLieCAtwj//SgMrr5s7ItIOiqdJvk="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p>Write a function, <strong><code>return_all_192_168</code></strong>,\n    that takes a list of IP addresses in, and returns all ips that start with 192.168.</p>\n<p>If there are no entries that begin with 192.168, return an empty list i.e. []</p>\n\n<p>It is also possible to perform list traversal using iteration by item as well as iteration by index.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    },
+    {
+      "id" : 873114285,
+      "title" : "11 Files",
+      "task_list" : [
+        {
+          "id" : 1135597431,
+          "name" : "Reading",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "IVSHB77/jO5xqQZpgXCSXE2Qu8eNVKtu8pYMJOR/Z5NiDGNfzt1l7CoMuqVNIW4o"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4cpCP4kVcsxYaAD7zXzimx5GIHfeylbPt1aJGajd9EyhUT34RGVV5p6tGRxuOqGiDut5ECgo4UQZfm5I+m43fRJqQBQcM5XPXQDTrjLmmddVxPD/EPcmbj6/hcqWDtaqxomBdi6NkTgiWS2YeV1qiZ9Op7+VW8JH2HrPyHwlI1jMuQQjoXj/kRwGHVilHiieOGD6IAoRCr0qD/1XvvKZrfQHgWpyXLJPXbq9R3Se/8lBThRfg5SHW5Y5DM2S9O5iBzF+SwBoBAJAOxIX2/GKVMf7jjgNCNO/wz09DjzJZeHqmY29dymcjDhcUs488iirQld5skwvSqQvG7ai9sbX4kk5UtghspqSeMS9ZnGzhsop0W1LZx7T4y4nvnozWcItdweowFgbxJYKfIvZNkgc7h33qc7AauZj1I4xjM6VOy674MLSMbNK+WQ/XdhFG4F80/4N7cVOv/zOp0l9tYk03buX+VbzzgnadSR3zj/lN5slUhAum2Irb4x0k6+8Dfd8Xd25Y2sO1ugYWHXBN3qhdzV30YGbNuNzvB4Lec/bNI4FA+fVqZnckWYVgOdCuwMNo2JEhXiDpdB+4oSOsCkHpK4OQ2ZyRUs5+VOQ8IsKURteA=="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "apache_log.txt" : {
+              "name" : "apache_log.txt",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "DSIOot/iZQcN5J0HgX0ocym2UMZHY4wZFEK4AD84THlOdp/uifH9HY7hxFze2OVlknbZF2Y9hFAERXnB3a8LOQSDDMgP73FxGmVdgoCDd/iSHJ1SJe6wJjcoVX4G/2gMmnQTX+tOpQThuakqxdapbAAmxHLzFqlN/m0pdcsqBFvrfKgws08noZVBVMugcHzAjrzL/hOwTCsq27bYhC8M1kOQL6n7sLntSM6tLYUY8bKSZx/+2sUnzN3xO1w8RN+DFevN0JsGWqW2Axu0yxPCHUXwBnfo7Ow57gur9qrz09Y4AqwdYM2A2RYNxyywqw4KWYmByp5xt2s7iA/2A9rUJb+7OXcbxlT2KAUoK0Q9o8swcjBtYlOp6K4hN0/jlXxZmiJRevlV9V/7+CvUtulqjLOnzfM+TJvJwSB0My+MwF/WDnZp9vXvD50YMKEUbDNl"
+            }
+          },
+          "description_text" : "<html>\n<p>Create a function, <strong><code>read_file_first_line</code></strong>,\n    that returns the first line in the provided <code>apache_log.txt</code> file</strong></p>\n\n<p>To open this file, we would call the <code>open</code> function. The variable, <code>fileref</code>,\n    now holds a reference to the file object returned by <code>open</code>. When we are finished with\n    the file, we can close it by using the <code>close</code> method. After the file is closed any\n    further attempts to use <code>fileref</code> will result in an error.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 1036046983,
+          "name" : "Writing",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "mliVUgmdJ+HO0r4YDUgUvqDiEpBXO1nLLdd/Rt5ppF4jI3cGP1fTMNmajvWp5E6l"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4eMszM7BPxMOyTID/M3jETaZzn9DU14kq/EAOVAqM5hdG27vLVb3BQaoBMCe1DvkdMgsN1HnjsexCZl06xtuz/2ciSeY5EYCN5uC5cAC8gIX/bNvgXcZyI0mb/bESMeRAWlZTJkdMGt/aKQaazmxcXFrkHxZry7/FutbLYGxw1iAH+zDV1vEbWLMBely4JJf9Q6A7yrhx8v2RkbfAHFdVvJFFKldrFq6NUtDEzU2bsQWO6sHRnWwD0C5zODBlQPWxgEhFf2PYYeQL/INMytQqab6jJ/gV4HHdepUjcejW8371ElO2QOlP9uwg/Rn6iXDnY="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "output.txt" : {
+              "name" : "output.txt",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "ea2dLE6tMeL3mf9uHUi9Tg=="
+            }
+          },
+          "description_text" : "<html>\n<p>This is a task description file.\nIts content will be displayed to a learner\nin the <strong>Task Description</strong> window.</p>\n\n<p>It supports both Markdown and HTML.\nTo toggle the format, you can rename <strong>task.md</strong>\nto <strong>task.html</strong>, or vice versa.\nThe default task description format can be changed\nin <strong>Preferences | Tools | Education</strong>,\nbut this will not affect any existing task description files.</p>\n\n<p>The following features are available in\n<strong>task.md/task.html</strong>\nwhich are specific to the EduTools plugin:</p>\n\n<ul>\n<li>Hints can be added anywhere in the task text.\nType \"hint\" and press Tab.\nHints should be added to an empty line in the task text.\nIn hints you can use HTML only.\n<div class=\"hint\">Text of your hint</div></li>\n\n<li>You can insert shortcuts in the task description.\nWhile <strong>task.html/task.md</strong> is open,\nright-click anywhere on the <strong>Editor</strong> tab\nand choose the <strong>Insert shortcut</strong> option\nfrom the context menu.\nFor example: &amp;shortcut:FileStructurePopup;.</li><br>\n\n<li>Insert the &percnt;<code>IDE_NAME</code>&percnt; macro,\nwhich will be replaced by the actual IDE name.\nFor example, <strong>%IDE_NAME%</strong>.</li><br>\n\n<li>Insert PSI elements, by using links like\n<code>&lt;a href=\"psi_element://link.to.element\"&gt;element description&lt;/a&gt;</code>.\nTo get such a link, right-click the class or method\nand select <strong>Copy Reference</strong>.\nThen press &amp;shortcut:EditorPaste;\nto insert the link where appropriate.\nFor example, a\n<a href=\"psi_element://java.lang.String#contains\">link to the \"contains\" method</a>.</li>\n</ul>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    },
+    {
+      "id" : 500742862,
+      "title" : "12 Dictionaries",
+      "task_list" : [
+        {
+          "id" : 454981662,
+          "name" : "Accessing",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "OvLTAwO2wKIvxZXTvdTUMuSOQtLzABAOrc//mYv1GWWuBDzuzPYrp+hKXrLUGrHeBDGMgvh8addi4H3zL/KIljMqLCKaekL+rWJvLeAl4HpC2d/ySFzQuLXV6SVgzFc7"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4d0LqVgvLjbbPn90Y0/kEqD1vy9zurcW9afVKhHxYy93hKcW94L0O9ty+liTTAapdVFkgqgUFV7QhsoO9Lk/ELO+UjLKWu4zJ3Snewz0JvXQsh4Kus8g6ozneEg/f/SeSI6/pjw9uGeR4lwxZPiFHEyF8CFva2vp3zGfh15qqlbIBCbaPTF+eb7h9l8ghV6WEl1Vf2DFp2R5YGKZT56897uuoTTD8nVvUXwrH33D4hSaffKsR7KhfWx3IL4I2cB+yGL5d96e+CDef9j54LyxQ/5n5OJHPDRDyPhhdnchOjCVYuroc4DYuIx2D+ANeTpRBP2h1ygt9SAPsWYc50WsoU5iIJGBIvMheZaYecyaiy+zsbO0ilNPvz6Zs2LWQOlUQqcUnb3zSpdS4zoR0BDq3pZqM4ZcMe4rcBhreiAoHESE1f/ssZgGtT2hYNJge59q7GhOc0R3dVVQD/wVtu75AAWLAf6E0kxABVEXNaFgDdhAP+qcdLgKell5BlSeF3RG/S7Qe6JHKhu1WqtZS65835X5jIj1W878yklKBUGoGXbuAlKfHfApLAKwlJv39vBp7wkWdRS5MfGu39V0tQQ7tW7x/or/24CyYsuWJNi4EPqV8DPgRRSQxzKFEY/zc9yYvG1lrjHN1ekKTtZMVORxFjK/tynd/fRzvAwevA6fIaLh3PQ8B1Bf4GBGfQpF99+u+TgaK1mkL0mIy0oDwufBvy9sNguHhm9WxNBcIj5AqR1rTJSYi4cs51EStGVkL1C9hxbw2NGs9EuymdJNsm0PueI438uhfdjUqc6IWDZaAHnI3SOffM0yneUMXXhvI/UXlRJSw9pIVhNDIScKhMkQg3z+0hda6UiMwtDxyPgiTq4LBSBgyxH3Dkso8krtULz9iL8Yd7FDx2ZoB4XNxsYQ+l3v8XOiLMoX0O0epcp65SfKgnqAt2ddriKkq2+7m5oFLvYMQvpYpI8zmXzUqXbDCwq+gFpItAsVNt6zkTQLMIZDTWUmdlg7puqKivETUrtG7eMud0sF6EYzls+fU0GfeQq"
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p>Create a function, <strong><code>dns_resolve</code></strong>,\n    that creates a dictionary with the following entries:</p>\n    <code>Linux</code> 192.168.1.101<br>\n    <code>Windows</code> 192.168.1.102<br>\n    <code>Router</code> 192.168.1.1<br>\n<p>And returns the IP address of the host supplied by <code>hostname</code></p>\n<p>If the hostname provided is not one of the three provided, return <code>None</code>.</p>\n\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 641142885,
+          "name" : "Creating",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "t12bNv0s9pMG2pIVrPXL48VyIieeEHPKq4KVBdPJ/gg0r8YZWnn3EofwLIAWEGZhEfdBfpY/kXYM3+qHNQ21K9G/cq6AzJqJX3tjLfkYkCjsAEQDJsyadZgCuLOdI992"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4dWqGFh15kdRt0I0q903zQQC3cfl6TR1Q6jJ+BkZlbbzCXO0+HsSQHrPwNKRg+ty453g8Y00Bop4d3dC5RrXiQDohcl43RsBJW2OM3mwtL7svvCB00kvtFG10jRmgzAk2aHJCFyOjNKPOZFmMgCNAGfBZXvuB1p8ihXrAMqm5WU1bbP+rEKqLWhcFDH7AF8P8/6KUJyJJCQoYkXoPBOwcS69xje0wBP0Dof8VpQ0pjh7fgUQCvp98u/Zfur6LG8mGWLfeJqfnVyAdtrUmTBe2p+kZwl2YV0RoXpGDyYWlq2AjC6Fg5vj+PDEul4Ikq6H7Daz4Kvo0/4KL9/nb0QTdOcus/NuDhbrhbhPddJYCincTGcf11kn4qmq2OP0mSbWDrS20E864ir0X/Jk9d79yJX8DtWkSJI5KgLBykhJpO2EBCIPt28debexTHlg7Z8YgZEWaADlTzl76cXp4sa5VrFD8RNSaxj7NrxDpZrq8FNwf38JSpJPHK4h+ko7baiAM7NqPFoFWZsu2DtBotx/VuDif/C+bHJ4AEJTsJ8BaZ9knro1d71T0YaEkJkIg6LBP+JEteHPY20//GezMk/htDhZ72CMLS4MgDOXg5tWQuROJsgLU607TLAeCE+3prq+fwVph93dq9Phca/UNCjcOJa3DIfhqS143Jy5Jeu9mxu3Q=="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "<html>\n<p>Create a function, <strong><code>create_network_dns</code></strong>,\n    that returns a dictionary with the following entries:</p>\n    <code>Linux</code> 192.168.1.101<br>\n    <code>Windows</code> 192.168.1.102<br>\n    <code>Router</code> 192.168.1.1<br>\n\n<p><strong>Dictionaries</strong> are a different kind of collection. They are Python’s\n    built-in <strong>mapping type</strong>. A map is an unordered, associative collection.\n    The association, or mapping, is from a <strong>key</strong>, which can be any immutable\n    type, to a <strong>value</strong>, which can be any Python data object.</p>\n</html>",
+          "description_format" : "HTML",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    }
+  ],
+  "additional_files" : [
+    {
+      "name" : ".idea/inspectionProfiles/profiles_settings.xml",
+      "is_visible" : true,
+      "text" : "fmEMHFXaNplPF2Xi1hyV5YoJs9fqtY7/gRjcW+wz5szApFsb1KKKPK1NgNxxD6UF5uUUQMf7VgCkVbtG2sqbsT65kciElG6/YSX3DvlzS4o3FSAAwPyrC6Dw9VziHhriE7UHNGB6am9lyFobCGsXs1VswvFWVYg/Wjf3f5MQIkgXsOsF1oBNoRyz8XS+UO/udsaM1uv5l7A61ordZQv0DJ/51vfNUvHFayuTizRA1PM="
+    }
+  ],
+  "version" : 15,
+  "edu_plugin_version" : "2023.3-2023.1-277"
+}
